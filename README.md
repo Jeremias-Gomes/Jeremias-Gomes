@@ -5,7 +5,7 @@
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) 
   e **React** na **Alura**.
 - 🤝 Estou procurando colaborar em **projetos de código aberto**.
-- ✉️ Como me contatar: [email@example.com](mailto:email@example.com)
+- ✉️ Como me contatar: [jeremiassvitalino@gmai.com](mailto:email@example.com)
 - 🏷️ Pronomes: **ele/dele**
 - 🎉 Curiosidade: Adoro **caminhadas** e já escalei três montanhas este ano!
 - 👁️‍🗨️ Visitas: ![Visitantes](https://img.shields.io/badge/visitas-100-brightgreen)
